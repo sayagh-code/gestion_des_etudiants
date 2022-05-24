@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1593805929 source:c:\users\asus\desktop\nouveau dossier\miniprojecttpinfo\main.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	"bibliotheque.h"
+
+1593282388 c:\users\asus\desktop\nouveau dossier\miniprojecttpinfo\bibliotheque.h
+
+1593805929 source:c:\users\asus\desktop\miniprojecttpinfo\main.c
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	"bibliotheque.h"
+
+1593282388 c:\users\asus\desktop\miniprojecttpinfo\bibliotheque.h
+
